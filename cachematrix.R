@@ -4,6 +4,9 @@
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) { # calling a function with matrix
+  #inv function
+	#set a function to inverse
+	#get a function to inverse
   inv <- NULL
   set <- function(y){
      x <<- y
